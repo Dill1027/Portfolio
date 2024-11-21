@@ -35,8 +35,8 @@ This portfolio is designed to highlight my journey as an IT student, my projects
 
 ## Technologies Used
 
-- **HTML5**: Markup structure
-- **CSS3**: Styling and animations
+- **HTML**: Markup structure
+- **CSS**: Styling and animations
 - **JavaScript (optional)**: For interactivity
 - **Font Awesome**: Icons for social links
 
